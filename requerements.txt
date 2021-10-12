@@ -1,17 +1,2 @@
-certifi
-charset-normalizer
-click
-dataclasses
 Flask
 gunicorn
-idna
-importlib-metadata
-itsdangerous
-Jinja2
-MarkupSafe
-pkg_resources
-requests
-typing-extensions
-urllib3
-Werkzeug
-zipp
